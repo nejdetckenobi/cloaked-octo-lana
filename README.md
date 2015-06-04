@@ -1,3 +1,3 @@
 # cloaked-octo-lana
 Sample Travis Project
-![](https://travis-ci.org/nejdetckenobi/cloaked-octo-lana.svg)
+[![Build Status](https://travis-ci.org/nejdetckenobi/cloaked-octo-lana.svg?branch=master)](https://travis-ci.org/nejdetckenobi/cloaked-octo-lana)
